@@ -1,0 +1,15 @@
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.csprojAssemblyReference.cache
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.AssemblyInfoInputs.cache
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.AssemblyInfo.cs
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.csproj.CoreCompileInputs.cache
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/cSharp-courses.deps.json
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/cSharp-courses.runtimeconfig.json
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/cSharp-courses.runtimeconfig.dev.json
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/cSharp-courses.dll
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/ref/cSharp-courses.dll
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/bin/Debug/net5.0/cSharp-courses.pdb
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.dll
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/ref/cSharp-courses.dll
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.pdb
+/Users/williambaldridge/VisualStudio/cSharp-courses/cSharp-courses/obj/Debug/net5.0/cSharp-courses.genruntimeconfig.cache

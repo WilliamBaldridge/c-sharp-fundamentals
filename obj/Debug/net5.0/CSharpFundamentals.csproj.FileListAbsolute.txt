@@ -1,0 +1,15 @@
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csprojAssemblyReference.cache
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.deps.json
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.json
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.runtimeconfig.dev.json
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.dll
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/bin/Debug/net5.0/CSharpFundamentals.pdb
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.dll
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/ref/CSharpFundamentals.dll
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.pdb
+/Users/williambaldridge/VisualStudio/CSharpFundamentals/CSharpFundamentals/obj/Debug/net5.0/CSharpFundamentals.genruntimeconfig.cache
