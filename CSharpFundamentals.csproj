@@ -8,5 +8,6 @@
 
   <ItemGroup>
     <Folder Include="beginners\" />
+    <Folder Include="beginners\math\" />
   </ItemGroup>
 </Project>

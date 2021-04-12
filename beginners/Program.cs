@@ -10,7 +10,7 @@ namespace CSHarpFundamentals.beginners
 
                 var bill = new Person
                 {
-                    firstName = "Bill",
+                    firstName = "Billy",
                     lastName = "Clinton"
                 };
 
@@ -19,4 +19,5 @@ namespace CSHarpFundamentals.beginners
             }
         
     }
+
 }

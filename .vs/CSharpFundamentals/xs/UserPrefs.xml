@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/Program.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="beginners/EmptyClass.cs" Line="19" Column="1" />
-      <File FileName="beginners/Program.cs" Line="2" Column="30" />
+      <File FileName="beginners/Program.cs" Line="24" Column="1" />
+      <File FileName=".gitignore" Line="405" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
             <Node name="CSharpFundamentals" expanded="True">
-              <Node name="beginners" expanded="True" selected="True" />
+              <Node name="beginners" expanded="True" />
+              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>
