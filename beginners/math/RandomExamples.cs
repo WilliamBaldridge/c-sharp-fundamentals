@@ -3,17 +3,19 @@ namespace CSHarpFundamentals.beginners.math
 {
     public class RandomExamples
     {
-        //public RandomExamples()
-        //{
+        public RandomExamples()
+        {
 
-            static void Main(String[] args)
-            {
+            //static void Main(String[] args)
+            //{
 
-                var random = new Random();
+            var random = new Random();
 
-                char[] buffer = new char[10];
+            const int passwordLength = 10;
 
-                for (var i = 0; i < 10; i++)
+                char[] buffer = new char[passwordLength];
+
+                for (var i = 0; i < passwordLength; i++)
                     buffer[i] = (char)('a' + random.Next(0, 26));
 
                 var password = new string(buffer);

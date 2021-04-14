@@ -1,10 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/math/Random.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/Lists.cs">
     <Files>
-      <File FileName="beginners/Conditionals.cs" Line="22" Column="1" />
-      <File FileName="beginners/Iterations.cs" Line="50" Column="32" />
-      <File FileName="beginners/Program.cs" Line="85" Column="4" />
-      <File FileName="beginners/math/Random.cs" Line="9" Column="1" />
+      <File FileName="beginners/Lists.cs" Line="39" Column="9" />
+      <File FileName="beginners/Program.cs" Line="81" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,9 +10,8 @@
           <Node name="CSharpFundamentals" expanded="True">
             <Node name="CSharpFundamentals" expanded="True">
               <Node name="beginners" expanded="True">
-                <Node name="math" expanded="True">
-                  <Node name="Random.cs" selected="True" />
-                </Node>
+                <Node name="math" expanded="True" />
+                <Node name="Lists.cs" selected="True" />
               </Node>
             </Node>
           </Node>
