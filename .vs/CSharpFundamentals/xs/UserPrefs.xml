@@ -1,8 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/Lists.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/DateTimeSpan.cs">
     <Files>
-      <File FileName="beginners/Lists.cs" Line="39" Column="9" />
-      <File FileName="beginners/Program.cs" Line="81" Column="1" />
+      <File FileName="beginners/Lists.cs" Line="132" Column="1" />
+      <File FileName="beginners/Program.cs" />
+      <File FileName="beginners/DateTimeSpan.cs" Line="10" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
             <Node name="CSharpFundamentals" expanded="True">
               <Node name="beginners" expanded="True">
                 <Node name="math" expanded="True" />
-                <Node name="Lists.cs" selected="True" />
+                <Node name="DateTimeSpan.cs" selected="True" />
               </Node>
             </Node>
           </Node>

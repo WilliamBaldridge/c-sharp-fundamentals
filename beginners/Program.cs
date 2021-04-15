@@ -78,6 +78,8 @@ namespace CSHarpFundamentals.beginners
             Console.WriteLine(string.Format("array1[0]: {0}, array2[0]: {1}", array1[0], array2[0]));
 
 
+            
+
         }
 
     }
