@@ -1,9 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/PathClass.cs">
     <Files>
-      <File FileName="beginners/Program.cs" Line="3" Column="1" />
       <File FileName="beginners/ProceduralProgramming.cs" Line="105" Column="1" />
-      <File FileName=".gitignore" Line="1" Column="1" />
+      <File FileName="beginners/FileAndFileInfo.cs" Line="11" Column="118" />
+      <File FileName="beginners/DirectoryAndInfo.cs" Line="33" Column="44" />
+      <File FileName="beginners/PathClass.cs" Line="9" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,9 +12,8 @@
           <Node name="CSharpFundamentals" expanded="True">
             <Node name="CSharpFundamentals" expanded="True">
               <Node name="beginners" expanded="True">
-                <Node name="math" expanded="True" />
+                <Node name="PathClass.cs" selected="True" />
               </Node>
-              <Node name=".gitignore" selected="True" />
             </Node>
           </Node>
         </State>
