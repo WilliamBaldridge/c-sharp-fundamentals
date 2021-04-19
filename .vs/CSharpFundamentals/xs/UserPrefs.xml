@@ -1,19 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3B210C96-FCE9-490B-A5F9-82F0A7EB12CC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="beginners/PathClass.cs">
-    <Files>
-      <File FileName="beginners/ProceduralProgramming.cs" Line="105" Column="1" />
-      <File FileName="beginners/FileAndFileInfo.cs" Line="11" Column="118" />
-      <File FileName="beginners/DirectoryAndInfo.cs" Line="33" Column="44" />
-      <File FileName="beginners/PathClass.cs" Line="9" Column="24" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpFundamentals" expanded="True">
             <Node name="CSharpFundamentals" expanded="True">
-              <Node name="beginners" expanded="True">
-                <Node name="PathClass.cs" selected="True" />
-              </Node>
+              <Node name="beginners" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
