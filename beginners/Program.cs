@@ -1,5 +1,6 @@
 ﻿using System;
-using CSHarpFundamentals.beginners;
+
+
 
 namespace CSHarpFundamentals.beginners
 {
@@ -17,6 +18,7 @@ namespace CSHarpFundamentals.beginners
     {
         static void Main(string[] args)
         {
+            
 
             var bill = new Person
             {
